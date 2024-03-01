@@ -2,7 +2,8 @@
 layout: page
 title: Containers
 permalink: /Containers/
-nav_order: 6
+parent: Kubernetes Fundamentals
+nav_order: 5
 ---
 
 ## Containers

@@ -2,7 +2,8 @@
 layout: page
 title: Kubernetes Security
 permalink: /Kubernetes Security/
-nav_order: 9
+parent: Container Orchestration
+nav_order: 3
 ---
 
 ## Kubernetes Security

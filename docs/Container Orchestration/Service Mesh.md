@@ -2,7 +2,8 @@
 layout: page
 title: Service Mesh
 permalink: /Service Mesh/
-nav_order: 12
+parent: Container Orchestration
+nav_order: 6
 ---
 
 ## Service Meshes

@@ -5,6 +5,6 @@
 layout: home
 ---
 
-## Kubernetes Study Tips
+## KCNA Study Tips
 
 These docs are Kubernetes Study Tips taken from the A Cloud Guru KCNA training material.

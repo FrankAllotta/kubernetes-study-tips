@@ -2,6 +2,7 @@
 layout: page
 title: Resources for Managing Pods
 permalink: /Resources for Managing Pods/
+parent: Kubernetes Fundamentals
 nav_order: 2
 ---
 

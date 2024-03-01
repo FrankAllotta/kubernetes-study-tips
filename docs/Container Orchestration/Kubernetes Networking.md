@@ -2,7 +2,8 @@
 layout: page
 title: Kubernetes Networking
 permalink: /Kubernetes Networking/
-nav_order: 10
+parent: Container Orchestration
+nav_order: 4
 ---
 
 ## Kubernetes Networking

@@ -2,7 +2,8 @@
 layout: page
 title: The Kubernetes API
 permalink: /The Kubernetes API/
-nav_order: 5
+parent: Kubernetes Fundamentals
+nav_order: 4
 ---
 
 ## The Kubernetes API

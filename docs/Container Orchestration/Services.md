@@ -2,7 +2,8 @@
 layout: page
 title: Services
 permalink: /Services/
-nav_order: 11
+parent: Container Orchestration
+nav_order: 5
 ---
 
 ## Services

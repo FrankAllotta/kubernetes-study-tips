@@ -2,7 +2,8 @@
 layout: page
 title: Scheduling
 permalink: /Scheduling/
-nav_order: 4
+parent: Kubernetes Fundamentals
+nav_order: 6
 ---
 
 ## Scheduling

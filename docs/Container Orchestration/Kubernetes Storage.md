@@ -2,7 +2,8 @@
 layout: page
 title: Storage
 permalink: /Storage/
-nav_order: 13
+parent: Container Orchestration
+nav_order: 7
 ---
 
 ## Storage

@@ -2,6 +2,7 @@
 layout: page
 title: Kubernetes Components
 permalink: /Kubernetes Components/
+parent: Kubernetes Fundamentals
 nav_order: 3
 ---
 
