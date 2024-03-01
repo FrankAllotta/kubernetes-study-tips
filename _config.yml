@@ -4,6 +4,7 @@ theme: just-the-docs
 color_scheme: dark
 
 url: https://github.com/FrankAllotta/kubernetes-study-tips
+baseurl: /FrankAllotta
 
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/FrankAllotta/kubernetes-study-tips

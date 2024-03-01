@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<center><img src="/assets/images/58480a44cef1014c0b5e4917.png" width="200" height="100"></center>
+<center><img src="{{ site.baseurl }}/assets/images/58480a44cef1014c0b5e4917.png" width="200" height="100"></center>
 
 ## KCNA Study Tips
 
