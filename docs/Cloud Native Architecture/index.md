@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cloud Native Architecture Fundamentals
+title: Cloud Native Architecture
 nav_order: 3
 has_children: true
 ---
